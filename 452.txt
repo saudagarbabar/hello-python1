@@ -1,0 +1,15 @@
+<! DOCTYPE html >
+<html>
+<head >
+<title>Different images</title>
+</head>
+<body>
+<img src =img 1. jpg height =50 width=50 >
+<br>  <br>
+,img src =1.jpg height =100  width = 100>
+<br> <br>
+<img src =img 1. jpg height =200 width =200>
+<br><br> 
+you can make image larger or smaller by changing the values of height and width attributs .
+</body >
+</html>
